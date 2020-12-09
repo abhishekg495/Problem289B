@@ -15,6 +15,7 @@ In a single line print a single integer — the minimum number of moves the peng
 If that is impossible, print "-1" (without the quotes).
 
 EXAMPLE:
+
 INPUT : 2 2 2 2 4 6 8
 OUTPUT : 2
 
